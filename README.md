@@ -7,4 +7,4 @@
 
 
 <!--NAVIGATION-->
-[Spis Treści](Praca_Dyplomowa.ipynb)
+### [Spis Treści](Praca_Dyplomowa.ipynb)
