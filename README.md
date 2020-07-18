@@ -1,4 +1,4 @@
-<h2> [Praca Dyplomowa GSN PW](Praca_Dyplomowa.ipynb)<br><br>
+<h2 [Praca Dyplomowa GSN PW](Praca_Dyplomowa.ipynb)><br><br>
 
 
 
