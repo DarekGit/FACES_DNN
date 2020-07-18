@@ -2,7 +2,9 @@
 
 <a href="https://github.com/DarekGit/Documents/blob/master/Praca_Dyplomowa.ipynb"><img align="left" src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab" title="Open and Execute in Google Colaboratory"></a><br>
 <br><br>
-
+Detekcja i rozpoznawanie twarzy, przygotowana przez zespół .....
+pod nadzorem ...
+<br><br>
 ![Przykład detekcji](https://github.com/DarekGit/Documents/blob/master/Figures/Smieszna%20detekcja.png)
 
 
