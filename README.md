@@ -1,4 +1,4 @@
-## [Praca Dyplomowa GSN PW](Praca_Dyplomowa.ipynb)
+[Praca Dyplomowa GSN PW](Praca_Dyplomowa.ipynb)
 # ["Zastosowanie metod Deep Learningu w detekcji twarzy."](Praca_Dyplomowa.ipynb)
 
 Praca została przygotowana przez zespół .....<br>
