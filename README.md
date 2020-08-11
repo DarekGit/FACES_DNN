@@ -1,5 +1,5 @@
-[Praca Dyplomowa GSN PW](Praca_Dyplomowa.ipynb)
-# ["Detekcja twarzy z wykorzystaniem współczesnych architektur głębokich sieci neuronowych."](Praca_Dyplomowa.ipynb)
+[Praca Dyplomowa GSN PW](notebooks/Praca_Dyplomowa.ipynb)
+# ["Detekcja twarzy z wykorzystaniem współczesnych architektur głębokich sieci neuronowych."](notebooks/Praca_Dyplomowa.ipynb)
 
 Praca została przygotowana przez zespół .....<br>
 pod nadzorem ...<br>
