@@ -9,4 +9,4 @@ Wrzesień 2020r.
 
 
 <!--NAVIGATION-->
-### [Spis Treści](Praca_Dyplomowa.ipynb)
+### [Spis Treści](https://github.com/DarekGit/FACES_DNN/blob/master/notebooks/Praca_Dyplomowa.ipynb)
