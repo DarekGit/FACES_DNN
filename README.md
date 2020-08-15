@@ -5,7 +5,7 @@ Praca została przygotowana przez zespół .....<br>
 pod nadzorem ...<br>
 Wrzesień 2020r.
 <br><br>
-![Przykład detekcji](https://github.com/DarekGit/FACES_DNN/blob/master/Figures/Smieszna%20detekcja.png)
+![Przykład detekcji](https://github.com/DarekGit/FACES_DNN/blob/master/Figures/Smieszna%20detekcja.jpg)
 
 
 <!--NAVIGATION-->
