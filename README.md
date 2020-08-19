@@ -6,6 +6,13 @@ Praca została przygotowana przez zespół: [Dariusz Działkowski](https://githu
 Wykonana pod kierunkiem: *Grzegorz Gwardys* <br>
 Wrzesień 2020r.
 <br><br>
+
+start-->
+<a href="https://github.com/DarekGit/FACES_DNN/blob/master/notebooks/Praca_Dyplomowa.ipynb">
+<img src="https://github.com/DarekGit/FACES_DNN/blob/master/Figures/Smieszna%20detekcja.jpg" alt="Przykład detekcj">
+</a>
+--|stop
+
 ![Przykład detekcji](https://github.com/DarekGit/FACES_DNN/blob/master/Figures/Smieszna%20detekcja.jpg)
 
 
