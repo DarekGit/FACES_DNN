@@ -4,6 +4,7 @@
 Praca została przygotowana przez zespół: [Dariusz Działkowski](https://github.com/DarekGit), [Adam Baran](https://github.com/barad007)
 <br>
 Wykonana pod kierunkiem: *Grzegorz Gwardys* <br>
+Pod nadzorem prof. dr. hab. inż. Władysława Skarbka.
 Wrzesień 2020r.
 <br>
 
