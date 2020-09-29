@@ -3,8 +3,8 @@
 
 Praca została przygotowana przez zespół: [Dariusz Działkowski](https://github.com/DarekGit), [Adam Baran](https://github.com/barad007)
 <br>
-Wykonana pod kierunkiem: *Grzegorz Gwardys* <br>
-Pod nadzorem prof. dr. hab. inż. Władysława Skarbka.
+Wykonana pod kierunkiem *mgr inż. Grzegorza Gwardysa*. <br>
+Pod nadzorem *prof. dr. hab. inż. Władysława Skarbka*. <br>
 Wrzesień 2020r.
 <br>
 
