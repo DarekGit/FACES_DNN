@@ -5,7 +5,7 @@ Praca została przygotowana przez zespół: [Dariusz Działkowski](https://githu
 <br>
 Wykonana pod kierunkiem *mgr inż. Grzegorza Gwardysa*. <br>
 Pod nadzorem *prof. dr. hab. inż. Władysława Skarbka*. <br>
-Wrzesień 2020r.
+Wrzesień 2020r.<br>
 <br>
 
 <a href="https://github.com/DarekGit/FACES_DNN/blob/master/notebooks/Praca_Dyplomowa.ipynb">
