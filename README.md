@@ -12,7 +12,7 @@ Wrzesień 2020r.<br>
 <img src="https://github.com/DarekGit/FACES_DNN/blob/master/Figures/Smieszna%20detekcja.jpg" alt="Przykład detekcj">
 </a>
 <br><br>
-Abstract.<br>
+<b>Abstract.</b><br>
 <br>
 This diploma thesis takes the issue of face detection with the use of deep neural networks.<br>
 In the work on the detection problem, a convolutional neural network with the Faster R-CNN
@@ -24,4 +24,4 @@ neural network allows to obtain satisfactory results on the prepared data set (F
 high-resolution photos. The detection efficiency was confirmed by the prepared mAP
 module.<br>
 <br>
-Keywords: deep neural networks, face detection, Faster R-CNN
+<b>Keywords:</b> deep neural networks, face detection, Faster R-CNN
